@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello There 👋
+
+Welcome to my Girhub Profile, Here you will find many of my Cyber Security Projects.
+
+Graduated from Leeds Beckett University, and after University i explored thee vast world of cyber, trying different project to better my understanding of it, This started with simple projects that evidenced my knowledge in Virtual Machines and SQL and many more vulnerabilities.
+From There as you might see ive expanded from there, why dont you take a look.
 
 <!--
 **Victorydevlo/Victorydevlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
